@@ -1,30 +1,45 @@
-# Hi there! 👋 I'm Yurii
-
-Welcome to my GitHub profile! I'm a **frontend developer** passionate about crafting user-friendly and aesthetically pleasing web applications. Currently, I'm expanding my skillset to include **React** and **Node.js**, aiming to become a full-stack developer.
-
----
-
-## 🛠️ Technologies & Tools:
-- **Frontend**: HTML, CSS, SCSS, Tailwind CSS
-- **JavaScript**: Proficient in creating interactive and dynamic features
-- **Version Control**: Git
-- **Currently Learning**: React, Node.js
+# Hi there! 👋 I'm Yurii  
+Welcome to my GitHub profile! I'm a passionate **frontend developer** who loves building user-friendly and visually appealing web applications. Currently, I’m expanding my skillset to include **React** and **Node.js**, with the goal of becoming a **full-stack developer**.
 
 ---
 
-## 🌱 About Me:
-- I’m dedicated to improving my skills daily, combining theory with hands-on practice.
-- I aim to create scalable, maintainable, and visually stunning projects.
-- Open to collaboration and eager to contribute to exciting projects.
+### 🛠️ Technologies & Tools  
+- **Frontend:** HTML, CSS, SCSS, Tailwind CSS  
+- **JavaScript:** Creating interactive and dynamic features  
+- **Version Control:** Git  
+- **Currently Learning:** React, Node.js  
 
 ---
 
-## 📈 Goals:
-- Deepen my knowledge of **React** for building dynamic frontend applications.
-- Master **Node.js** to work on backend logic and APIs.
-- Expand my portfolio with impactful full-stack projects.
+### 🌱 About Me  
+- 🧠 Constantly improving my skills through a combination of theory and hands-on practice.  
+- 🎯 Committed to creating scalable, maintainable, and visually appealing projects.  
+- 🤝 Open to collaboration and excited to contribute to meaningful projects.  
 
 ---
 
-### 📫 Get in Touch:
-Feel free to connect or explore my repositories. I’d love to collaborate and grow together in the developer community! 
+### 📈 Goals  
+- 🔍 Deepen my knowledge of **React** for building dynamic frontend applications.  
+- 🔗 Master **Node.js** for implementing robust backend logic and APIs.  
+- 💡 Expand my portfolio with impactful **full-stack projects**.  
+
+---
+
+### 🔥 GitHub Activity  
+![Yurii's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=guboss3214&theme=radical)
+
+---
+
+### 📊 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guboss3214&layout=compact&theme=radical)
+
+---
+
+### 📫 Get in Touch  
+Feel free to explore my repositories or reach out! I’m always looking forward to collaborating and growing within the developer community.  
+- **Email:** [uporskalo@gmail.com](mailto:uporskalo@gmail.com)  
+
+---
+
+Thanks for stopping by! 🚀  
+
