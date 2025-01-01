@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **frontend developer** who loves 
 ---
 
 ### 🔥 GitHub Activity  
-![Yurii's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=guboss3214&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guboss3214&show_icons=true&theme=radical)
 
 ---
 
