@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate **frontend developer** who loves 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guboss3214&layout=compact&theme=radical)
 
 ---
-### 🛠️ Skills & Tools
+### 🏁 Technologies I Use
 ![HTML](https://img.shields.io/badge/HTML-5%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3%20-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -46,10 +46,21 @@ Welcome to my GitHub profile! I'm a passionate **frontend developer** who loves 
 ![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
+### 🌐 Portfolio
+- Check out my portfolio: [Portfolio Link](https://guboss3214.github.io/Portfolio/)
+  
+---
+
+### 📌 Pinned Repositories
+- [OOP Slider](https://github.com/guboss3214/Slider-OOP)
+- [ToDo with LocalStorage](https://github.com/guboss3214/ToDo-localStorage)
+- [Movie Searcher](https://github.com/guboss3214/Movie-searcher)
+- [Site](https://github.com/guboss3214/Final-project-Html-Scss-)
+
+---
 ### 📫 Get in Touch  
 Feel free to explore my repositories or reach out! I’m always looking forward to collaborating and growing within the developer community.  
 - **Email:** [uporskalo@gmail.com](mailto:uporskalo@gmail.com)  
