@@ -34,6 +34,21 @@ Welcome to my GitHub profile! I'm a passionate **frontend developer** who loves 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guboss3214&layout=compact&theme=radical)
 
 ---
+### 🛠️ Skills & Tools
+![HTML](https://img.shields.io/badge/HTML-5%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3%20-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
 
 ### 📫 Get in Touch  
 Feel free to explore my repositories or reach out! I’m always looking forward to collaborating and growing within the developer community.  
